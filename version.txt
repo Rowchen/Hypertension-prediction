@@ -1,0 +1,3 @@
+操作系统：windows 8.0
+Python 2.7.13 |Anaconda custom (64-bit)
+xgboost最新版本
